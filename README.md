@@ -1,6 +1,6 @@
 <h1 align="left"> Audaefi (KangJin Oh)</h1>
 <h3 align="left"> A passionate Data Engineer</h3>
-Hello, I started my dream of becoming a data engineer because I discovered a variety of insights from numerous data and was attracted to solving business problems.
+I started my intent of becoming a data engineer because I was attracted to handling big data, discovering various insights, and solving business problems.
 
 While working as a freelancer engineer at a legal-tech startup, I have experience in collaborating with in-house IP attorneys, paralegals and providing capabilities such as building data pipelines and analyzing data so that they can focus on IP strategies.
   <br>
