@@ -3,8 +3,8 @@
 Hello, I started my dream of becoming a data engineer because I discovered a variety of insights from numerous data and was attracted to solving business problems.
 
 While working as a freelancer engineer at a legal-tech startup, I have experience in collaborating with in-house IP attorneys, paralegals and providing capabilities such as building data pipelines and analyzing data so that they can focus on IP strategies.
-
-
+  <br>
+  <br>
 - 🌱 I’m currently learning **Hadoop**
 
 - 👨‍💻 All of my projects are available at [https://kjo.oopy.io/](https://kjo.oopy.io/)
