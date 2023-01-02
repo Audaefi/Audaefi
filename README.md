@@ -17,6 +17,7 @@ While working as a freelancer engineer at a legal-tech startup, I have experienc
 - 📄 Know about my experiences [https://kjo.oopy.io/](https://kjo.oopy.io/)
   <br>
   <br>
+  <br>
 <div align="left"><h3>📚 STACKS</h3></div>
 
 <div align="left"> 
