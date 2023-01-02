@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Audaefi(KangJin Oh)</h1>
-<h3 align="left">A passionate Data Engineer</h3>
+<h1 align="left"> Audaefi (KangJin Oh)</h1>
+<h3 align="left"> A passionate Data Engineer</h3>
 
 - 🌱 I’m currently learning **Hadoop**
 
