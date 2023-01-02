@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [https://kjo.oopy.io/](https://kjo.oopy.io/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <div align="left"><h1>📚 STACKS</h1></div>
