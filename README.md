@@ -14,4 +14,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![] (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
