@@ -8,10 +8,10 @@
 - 📫 How to reach me **Aegsa369@gmail.com**
 
 - 📄 Know about my experiences [https://kjo.oopy.io/](https://kjo.oopy.io/)
-
-
-<div align="left"><h3>📚 STACKS</h3></div>
   <br>
+  <br>
+<div align="left"><h3>📚 STACKS</h3></div>
+
 <div align="left"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
