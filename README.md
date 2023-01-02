@@ -6,6 +6,7 @@ I started my intent of becoming a data engineer because I was attracted to handl
 While working as a freelancer engineer at a legal-tech startup, I have experience in collaborating with in-house IP attorneys, paralegals and providing capabilities such as building data pipelines and analyzing data so that they can focus on IP strategies.
   <br>
   <br>
+  <br>
 - 🌱 I’m currently learning **Hadoop**
 
 - 👨‍💻 All of my projects are available at [https://kjo.oopy.io/](https://kjo.oopy.io/)
