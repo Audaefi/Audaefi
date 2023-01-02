@@ -3,7 +3,7 @@
 I started my intent of becoming a data engineer because I was attracted to handling big data, discovering various insights, and solving business problems.
   <br>
   <br>
-While working as a Leagl Engineer(freelancer) at a legal-tech startup, I have experience in collaborating with in-house IP attorneys, paralegals and providing capabilities such as building data pipelines and analyzing data so that they can focus on IP strategies.
+While working as a Leagl Engineer(Freelancer) at a legal-tech startup, I have experience in collaborating with in-house IP attorneys, paralegals and providing capabilities such as building data pipelines and analyzing data so that they can focus on IP strategies.
   <br>
   <br>
   <br>
