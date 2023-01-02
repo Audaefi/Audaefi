@@ -9,9 +9,8 @@
 
 - 📄 Know about my experiences [https://kjo.oopy.io/](https://kjo.oopy.io/)
 
-<p align="left">
-</p>
-<div align="left"><h1>📚 STACKS</h1></div>
+
+<div align="left"><h3>📚 STACKS</h3></div>
 
 <div align="left"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
