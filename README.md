@@ -1,5 +1,5 @@
 <h1 align="left"> Audaefi (KangJin Oh)</h1>
-<h3 align="left"> A passionate Data Engineer</h3>
+<h3 align="left"> A Passionate Junior Engineer</h3>
 I started my intent of becoming a data engineer because I was attracted to handling big data, discovering various insights, and solving business problems.
   <br>
   <br>
