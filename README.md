@@ -8,7 +8,7 @@ While working as a Leagl Engineer(Freelancer) at a Legal-Tech Startup, I have ex
   <br>
   <br>
   
-- 🌱 I’m currently learning **Hadoop**
+- 🌱 I’m currently learning **Hadoop**, **ElasticSearch**
 
 - 👨‍💻 All of my projects are available at [https://kjo.oopy.io/](https://kjo.oopy.io/)
 
