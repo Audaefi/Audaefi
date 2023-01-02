@@ -23,11 +23,11 @@ While working as a freelancer engineer at a legal-tech startup, I have experienc
 <div align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
   <br>
 </div>
