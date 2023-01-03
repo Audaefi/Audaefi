@@ -1,9 +1,9 @@
 <h1 align="left"> Audaefi (KangJin Oh)</h1>
 <h3 align="left"> [ Introduce ] </h3>
-I was attracted to handling big data, discovering various insights, and solving business problems, so I started my intent to becoming a data engineer.
+I was attracted to handling big data, discovering various insights, and solving business problems, so I started my intent to becoming a Data Engineer.
   <br>
   <br>
-While working as a Legal Engineer(Freelancer) at an AI-driven Legal Tech Startup, I have background in teaming with in-house IP attorneys and paralegals to provide capabilities such as building data pipelines and analyzing data to establish IP strategies.
+While working as a Legal Engineer(Freelancer) at an AI-driven legal tech startup, I have background in teaming with in-house IP attorneys and paralegals to provide capabilities such as building data pipelines and analyzing data to establish IP strategies.
   <br>
   <br>
   <br>
